@@ -1,0 +1,18 @@
+spider_anhui: xxxxxxxxxxxxxxxxxxxxxxxxx
+spider_target: 安徽合肥公共资源交易中心
+spider_name: anhui_hefei
+spider_domain: ggzy.hefei.gov.cn
+spider_index_type: 政府采购
+spider_sub_url: /jyxx/002002/002002004
+spider_sub_url_page_first: moreinfo_jyxxzfcggs
+spider_index_type_其他交易: 其他交易
+spider_index_type_工程建设: 工程建设
+spider_index_type_政府采购: 政府采购
+
+spider_sub_url_anhui_其他交易: /jyxx/002013/002013004
+spider_sub_url_anhui_工程建设: /jyxx/002001/002001004
+spider_sub_url_anhui_政府采购: /jyxx/002002/002002004
+spider_sub_url_first_anhui_其他交易: moreinfo_jyxx4
+spider_sub_url_first_anhui_工程建设: moreinfo_jyxx4
+spider_sub_url_first_anhui_政府采购: moreinfo_jyxxzfcggs
+
